@@ -1,0 +1,6 @@
+[f5-group]
+linux-ubuntu.networking.cardinalhealth.net
+linux-server-1.networking.cardinalhealth.net
+linux-server-2.networking.cardinalhealth.net
+ansible-server.networking.cardinalhealth.net
+linux-server.networking.cardinalhealth.net
